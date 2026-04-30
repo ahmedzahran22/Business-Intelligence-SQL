@@ -4,6 +4,7 @@ Project Overview
 This project focuses on transforming raw database records from a movie rental business into actionable business insights. Using Advanced SQL, I analyzed over 16,000 transactions to evaluate revenue performance, customer behavior, and operational efficiency.  
 
 Key Business Insights 💡
+
 Revenue Growth: Achieved a total revenue of $67.4K, with a significant 195% growth surge in July 2005.  
 
 Top Categories: Identified Sports ($4,892) and Sci-Fi ($4,756) as the highest-grossing film categories.  
