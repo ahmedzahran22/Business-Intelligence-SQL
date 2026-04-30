@@ -4,11 +4,13 @@
 
 🚀 Executive Summary (Key Insights)MetricAchievementInsightTotal Revenue$67.4KDriven by 16,049 successful transactions.  Peak Growth+195% MoMMassive surge identified between June and July 2005.  Top CategorySportsHighest grossing category at $4,892 in total sales.  Market Parity50/50 SplitNear-perfect revenue balance between Store 1 and Store 2.
 
-🛠️ Technical Deep Dive1. Advanced Analytics & Window FunctionsTrend Analysis: Leveraged LAG() to calculate Month-over-Month growth and identify seasonal spikes.  Performance Ranking: Implemented RANK() to dynamically identify top-grossing films and categories per month.
+🛠️ Technical Deep Dive
+
+1.Advanced Analytics & Window FunctionsTrend Analysis: Leveraged LAG() to calculate Month-over-Month growth and identify seasonal spikes.  Performance Ranking: Implemented RANK() to dynamically identify top-grossing films and categories per month.
 
 2. Customer Intelligence (CRM)Value Segmentation: Built a classification model using CASE statements to segment 599 customers into:💎 High Value: > $150 spend.⭐ Medium Value: $50 - $150 spend.📉 Low Value: < $50 spend.
 3. Operational EfficiencyGeographic Analysis: Aggregated revenue by country and city, identifying India as the top-performing market ($6,034).  Staff Performance: Tracked transaction volumes per employee to ensure workload balance.
-4. 
+ 
 5. 🔧Tools Used
 6. Database Engine: MySQL (Sakila Sample Database).
 7. SQL Client: MySQL Workbench.
